@@ -97,17 +97,6 @@ Stack: Java, Bukkit / Spigot
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-Backend Development     ███████████████░░░░░
-Python                  █████████████████░░░
-Java                    ████████████░░░░░░░░
-C++ / C#                ██████████░░░░░░░░░░
-Linux                   ███████████████░░░░░
-I'm currently focusing on building larger projects,
-improving code architecture and learning more about backend systems.
 
 ---
 
